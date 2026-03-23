@@ -164,4 +164,4 @@ MIT License — free for personal and commercial use.
 
 ---
 
-Made with ❤️ for the global design community. If this helped you, ⭐ star the repo!
+Developed by **CA Pranay S. Jajodia** | Made with ❤️ for the global design community. If this helped you, ⭐ star the repo!
